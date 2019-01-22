@@ -14,7 +14,6 @@
 
 # Prebuilt apps
 PRODUCT_PACKAGES += \
-    arcore \
     com.qualcomm.qti.services.secureui \
     datastatusnotification \
     EaselServicePrebuilt \
@@ -40,7 +39,6 @@ PRODUCT_PACKAGES += \
 
 # Prebuilt privileged apps
 PRODUCT_PACKAGES += \
-    AmbientSensePrebuilt \
     AppDirectedSMSService \
     CarrierServices \
     CarrierSetup \
@@ -98,7 +96,6 @@ PRODUCT_COPY_FILES := \
     vendor/google/crosshatch/proprietary/bin/vendor_cmd_tool:system/bin/vendor_cmd_tool \
     vendor/google/crosshatch/proprietary/bin/virtual_touchpad:system/bin/virtual_touchpad \
     vendor/google/crosshatch/proprietary/bin/vr_hwc:system/bin/vr_hwc \
-    vendor/google/crosshatch/proprietary/etc/ambient/matcher_tah.leveldb:system/etc/ambient/matcher_tah.leveldb \
     vendor/google/crosshatch/proprietary/etc/cne/andsfCne.xml:system/etc/cne/andsfCne.xml \
     vendor/google/crosshatch/proprietary/etc/felica/common.cfg:system/etc/felica/common.cfg \
     vendor/google/crosshatch/proprietary/etc/felica/mfm.cfg:system/etc/felica/mfm.cfg \
