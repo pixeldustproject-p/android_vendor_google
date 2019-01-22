@@ -95,7 +95,6 @@ PRODUCT_COPY_FILES := \
     vendor/google/blueline/proprietary/bin/vendor_cmd_tool:system/bin/vendor_cmd_tool \
     vendor/google/blueline/proprietary/bin/virtual_touchpad:system/bin/virtual_touchpad \
     vendor/google/blueline/proprietary/bin/vr_hwc:system/bin/vr_hwc \
-    vendor/google/blueline/proprietary/etc/ambient/matcher_tah.leveldb:system/etc/ambient/matcher_tah.leveldb \
     vendor/google/blueline/proprietary/etc/cne/andsfCne.xml:system/etc/cne/andsfCne.xml \
     vendor/google/blueline/proprietary/etc/felica/common.cfg:system/etc/felica/common.cfg \
     vendor/google/blueline/proprietary/etc/felica/mfm.cfg:system/etc/felica/mfm.cfg \
