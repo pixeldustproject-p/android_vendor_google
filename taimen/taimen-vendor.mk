@@ -71,7 +71,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     Tycho \
     AppDirectedSMSService \
-    EaselServicePrebuilt \
     EuiccGoogle \
     VZWAPNLib \
     embms \
