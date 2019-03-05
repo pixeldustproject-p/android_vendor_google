@@ -34,6 +34,7 @@ PRODUCT_PACKAGES += \
     smcinvokepkgmgr \
     SSRestartDetector \
     Tycho \
+    uceShimService \
     uimlpaservice \
     VZWAPNLib
 
